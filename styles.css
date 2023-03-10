@@ -1,0 +1,62 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar{
+    overflow: hidden;
+    width: 100%;
+    position: fixed;
+}
+
+.navbar a {
+    margin-left: 10px;
+    align-items: center;
+    padding:10px 30px;
+    
+}
+
+.container{
+    display: flex;
+}
+.comp_div{
+    height: 50%;
+}
+
+.Connect-icons{
+    margin-top: 25%;
+}
+.desktop{
+    width: 300px;
+    height: auto;
+    padding-top: 60px;
+}
+.discord{
+    margin-left: 70%;
+}
+.navbarimg{
+    width: 150px;
+    height: auto;
+    padding-top: 10px;
+    transform: rotate(-10deg);
+}
+.landing_page{
+    width: 100%;
+    position: absolute;
+    
+}
+.landing_page_left{
+    position: relative;
+    width: 50%;
+    margin-top: 250px;
+    margin-left: 40px;
+
+}
+.landing_page_left h1{
+    font-size: 60px;
+
+}
+.landing_page_right{
+    position: relative;
+    width: 50%;
+}
